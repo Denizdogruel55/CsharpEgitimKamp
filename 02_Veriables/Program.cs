@@ -92,9 +92,9 @@ namespace _02_Veriables
             //exam3 = double.Parse(Console.ReadLine());
             //result = (exam1 + exam2 + exam3) / 3;
             //Console.WriteLine("Ortalamanız : "+result);
-            Console.Write("Cinsiyet Giriniz:");
-            char gender=char.Parse(Console.ReadLine());
-            Console.Write("Seçtiğiniz Cinsiyet: "+gender);
+            //Console.Write("Cinsiyet Giriniz:");
+            //char gender=char.Parse(Console.ReadLine());
+            //Console.Write("Seçtiğiniz Cinsiyet: "+gender);
             Console.Read();
         }
     }
